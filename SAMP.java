@@ -1,21 +1,21 @@
 package ro.alyn_sampmobile.game;
 
-import a1.z; // Importing class z from package a1
-import android.graphics.Color; // Importing Color class from Android framework
-import android.os.Bundle; // Importing Bundle class from Android framework
-import android.text.SpannableString; // Importing SpannableString class from Android framework
-import android.text.style.ForegroundColorSpan; // Importing ForegroundColorSpan class from Android framework
-import android.util.Log; // Importing Log class from Android framework
-import android.view.MotionEvent; // Importing MotionEvent class from Android framework
-import android.view.View; // Importing View class from Android framework
-import android.view.ViewGroup; // Importing ViewGroup class from Android framework
-import android.widget.FrameLayout; // Importing FrameLayout class from Android framework
-import android.widget.RelativeLayout; // Importing RelativeLayout class from Android framework
-import android.widget.Toast; // Importing Toast class from Android framework
-import com.google.android.material.textview.MaterialTextView; // Importing MaterialTextView class from Android framework
-import com.rockstargames.gtasa.GTASA; // Importing GTASA class from com.rockstargames package
-import d.s0; // Importing class s0 from package d
-import java.io.UnsupportedEncodingException; // Importing UnsupportedEncodingException class from Java standard library
-import java.util.Arrays; // Importing Arrays class from Java standard library
-import o7.d; // Importing class d from package o7
-import p7.b; // Importing class b from package p
+import android.graphics.Color;
+import android.os.Bundle;
+import android.text.SpannableString;
+import android.text.style.ForegroundColorSpan;
+import android.util.Log;
+import android.view.MotionEvent;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.FrameLayout;
+import android.widget.RelativeLayout;
+import android.widget.Toast;
+import androidx.appcompat.app.AppCompatActivity;
+import com.google.android.material.textview.MaterialTextView;
+import com.rockstargames.gtasa.GTASA;
+import d.s0;
+import java.io.UnsupportedEncodingException;
+import java.util.Arrays;
+import o7.d;
+import p7.b;
